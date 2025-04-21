@@ -1,4 +1,4 @@
-# Techtaste
+![image](https://github.com/user-attachments/assets/dcbe165c-868b-4954-888e-02a306817f6a)# Techtaste
 
 O Techtaste é um aplicativo de pedidos de restaurante desenvolvido utilizando o Flutter, com a linguagem de programação Dart. Este projeto foi criado durante uma imersão da Alura e implementa uma série de funcionalidades para uma experiência interativa e fluida. O app permite que o usuário escolha um restaurante, adicione itens ao carrinho e tenha a opção de limpar o carrinho. Algumas customizações também foram feitas para melhorar a legibilidade e a experiência do usuário.
 
@@ -17,6 +17,10 @@ O Techtaste é um aplicativo de pedidos de restaurante desenvolvido utilizando o
 ## Modificações
 
 Este projeto foi baseado em uma imersão da Alura, mas algumas alterações foram feitas para personalizar o app, como o ajuste no tamanho da fonte para melhorar a legibilidade.
+
+## Modelo retirado do figma para base do projeto
+
+![image](https://github.com/user-attachments/assets/b27ef3ff-5ef9-460b-9f50-1c6fe5f9b2dd)
 
 ## Como executar
 
