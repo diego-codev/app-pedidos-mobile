@@ -1,6 +1,6 @@
 # Techtaste
 
-O Techtaste é um aplicativo de pedidos de restaurante, desenvolvido durante uma imersão da Alura, com algumas personalizações feitas para aprimorar a experiência do usuário. O app permite que o usuário escolha um restaurante, adicione lanches ao carrinho e tenha a opção de limpar o carrinho, entre outras funcionalidades.
+O Techtaste é um aplicativo de pedidos de restaurante desenvolvido utilizando o Flutter, com a linguagem de programação Dart. Este projeto foi criado durante uma imersão da Alura e implementa uma série de funcionalidades para uma experiência interativa e fluida. O app permite que o usuário escolha um restaurante, adicione itens ao carrinho e tenha a opção de limpar o carrinho. Algumas customizações também foram feitas para melhorar a legibilidade e a experiência do usuário.
 
 ## Funcionalidades
 
