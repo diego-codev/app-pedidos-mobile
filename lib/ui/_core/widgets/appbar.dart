@@ -15,7 +15,7 @@ AppBar getAppBar({required BuildContext context, String? title}) {
         position: badges.BadgePosition.bottomStart(start: 0, bottom: 0),
         badgeContent: Text(
           bagProvider.dishesOnBag.length.toString(),
-          style: TextStyle(fontSize: 10),
+          style: TextStyle(fontSize: 14),
         ),
         child: IconButton(
           onPressed: () {
