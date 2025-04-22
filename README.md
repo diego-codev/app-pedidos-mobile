@@ -28,7 +28,7 @@ Este projeto foi baseado em uma imersão da Alura, mas algumas alterações fora
 ```bash
    git clone https://github.com/diego-codev/app-pedidos-mobile.git
 ```
-2. **Abra o projeto no seu editor de código preferido** (recomenda-se o Visual Studio Code).
+2. **Abra o projeto no seu editor de código** (por exemplo VS Code).
 3. **Execute o app**:
 - Abra o terminal no diretório do projeto e execute o comando:
   ```
